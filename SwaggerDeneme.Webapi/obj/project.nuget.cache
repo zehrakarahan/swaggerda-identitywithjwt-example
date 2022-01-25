@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HSey6lCe21C28xLPNeDw8yA7vk36rwYSvuIR1B+XDk3JxMYUMse7uNgfk3oSiOouDQKSNtGxOnjroKCUcTqsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zehra.Karahan\\Desktop\\SwaggerDeneme\\SwaggerDeneme.Webapi\\SwaggerDeneme.Webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zehra.Karahan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
